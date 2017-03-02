@@ -3,8 +3,8 @@ _Nuevo_ is the next generation of **Authentic Theme**.
 
 ####Differences
 * Single window application (no frames)
-* Using Vue.js framework for building user interface
-* Using LESS as CSS pre-processor
+* Using [Vue.js](https://vuejs.org) framework for building user interface
+* Using [LESS](http://lesscss.org) as CSS pre-processor
 * Optimized existing code base
 
 ### License
